@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""fetches https://intranet.hbtn.io/status."""
+"""
+Same as Task 0 but using request package
+"""
 import requests
 
 
